@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISLSystem", "..\System\Shalu-Light System UI\WebApplication1\ISLSystem.csproj", "{D60CAAC9-349A-42E4-BD9D-765D7DCF3E64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBL_Layer", "..\System\DBL_Layer\DBL_Layer\DBL_Layer.csproj", "{FE58C8FF-62FD-46D1-AFA3-9503B427B141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\System\BLL\BLL.csproj", "{877558B0-498C-4C1C-996A-3AB101981D16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D60CAAC9-349A-42E4-BD9D-765D7DCF3E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60CAAC9-349A-42E4-BD9D-765D7DCF3E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60CAAC9-349A-42E4-BD9D-765D7DCF3E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60CAAC9-349A-42E4-BD9D-765D7DCF3E64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE58C8FF-62FD-46D1-AFA3-9503B427B141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE58C8FF-62FD-46D1-AFA3-9503B427B141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE58C8FF-62FD-46D1-AFA3-9503B427B141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE58C8FF-62FD-46D1-AFA3-9503B427B141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877558B0-498C-4C1C-996A-3AB101981D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877558B0-498C-4C1C-996A-3AB101981D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877558B0-498C-4C1C-996A-3AB101981D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877558B0-498C-4C1C-996A-3AB101981D16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
